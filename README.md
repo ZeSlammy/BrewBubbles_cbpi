@@ -13,5 +13,5 @@ NOTE : You need to modify the /etc/apache2/sites-available/000-default.conf file
 </VirtualHost>
 ```
 
- You then set up your BrewBubbles to point to IP_To_CBPi/api/brewbubbles/v1/data / (WITH the final /)
+ You then set up your BrewBubbles to point to IP_To_CBPi/api/brewbubbles/v1/data/ (WITH the final /)
 
